@@ -1,4 +1,3 @@
-# PassGuardian-Password-Change-Reminder
 # 🔐 PassGuardian - Chrome Extension
 
 PassGuardian is a lightweight Chrome extension that tells you how many days are left before you should change your password — based on a 90-day cycle. No popups, no distractions — just open it when you want to check.
