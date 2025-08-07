@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "PassGuardian - Password Change Reminder",
+  "version": "1.0",
+  "description": "Reminds you to change your passwords after X days.",
+  "permissions": ["storage", "tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "profile.png"
+    }
+  },
+  "icons": {
+    "128": "profile.png"
+  },
+  "background":{
+    "service_worker":"background.js"
+  }
+}
