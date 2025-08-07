@@ -30,4 +30,43 @@ Most users forget when they last changed their password. While some tools enforc
 ![Extension Screenshot](./screenshot.png)
 
 ## 📁 Project Structure
+PassGuardian/
+├── manifest.json
+├── popup.html
+├── popup.js
+├── profile.png
+├── style.css
+
+
+## 🚀 Installation
+
+1. Download or clone this repository.
+2. Go to `chrome://extensions/` in Chrome.
+3. Enable **Developer mode** (top right).
+4. Click **Load unpacked** and select the `PassGuardian/` folder.
+5. Pin the extension for easy access.
+
+## 🛠️ Tech Used
+
+- JavaScript
+- HTML/CSS
+- Chrome Extensions API
+
+## 💡 Future Improvements
+
+- Add reset button for manual cycle restarts
+- Optional dark mode
+- Support multiple password timers (e.g. work email, social media)
+
+## 👨‍🎓 Built By
+
+**G Santosh Kumar**
+If you found this useful, feel free to ⭐ star this repo!
+
+---
+
+## 📬 License
+
+This project is licensed under the MIT License.
+
 
